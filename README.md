@@ -1,7 +1,7 @@
-# logistic-regression-py
+# deap-learning-ai-coursera-notes
 
-(wip) Dabbling a bit with logistic regression classification
+Course notes for Andrew Ng's new [deep learning specialization on coursera](https://www.coursera.org/specializations/deep-learning)
 
-Notebooks: 
+### Course 1: Neural Networks and Deep Learning
 
-- [Logistic Regression for Binomial Classification¶](https://github.com/desicochrane/logistic-regression-py/blob/master/binomial_digit_classification.ipynb)
+- [Week 2: Logistic Regression as a Neural Network](https://github.com/desicochrane/deap-learning-ai-coursera-notes/blob/master/logistic%20regression.ipynb)
