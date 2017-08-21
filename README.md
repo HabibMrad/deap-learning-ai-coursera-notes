@@ -1,6 +1,6 @@
 # deap-learning-ai-coursera-notes
 
-Course notes for Andrew Ng's new [deep learning specialization on coursera](https://www.coursera.org/specializations/deep-learning)
+My course notes for Andrew Ng's new [deep learning specialization on coursera](https://www.coursera.org/specializations/deep-learning)
 
 ### Course 1: Neural Networks and Deep Learning
 
